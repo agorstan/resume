@@ -51,21 +51,21 @@
 >  [Read on LinkedIn](www.google.com)
 
 ### ViPS _(Acquired by General Dynamics)_
+**Product Manager** from 2008 - 2011 in Towson, MD
+
 * Bacon ipsum dolor amet doner biltong bresaola pork 300%.
 * Alcatra hamburger kevin ball tip ground round short ribs porchetta.
 * Tri-tip kielbasa tenderloin boudin shankle turducken
 
-**Product Manager** from 2008 - 2011 in Towson, MD
-
 ### Johns Hopkins Medical Institute
-Just one sentence should go here, since this stuff is older and the resume is getting kind of long anyways.
-
 **Software Engineer** from 2007 - 2008 in Towson, MD
 
+Just one sentence should go here, since this stuff is older and the resume is getting kind of long anyways.
 ### Glenridge Healthcare Solutions
+**Software Engineer**, from 2005 - 2007 in Columbia, MD
+
 Just one sentence should go here, since this stuff is older and the resume is getting kind of long anyways.
 
-**Software Engineer**, from 2005 - 2007 in Columbia, MD
 
 -----------------------------------------------------------------------------------------------
 ## Other Things That I'm Proud Of
