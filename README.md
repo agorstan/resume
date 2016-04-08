@@ -69,7 +69,6 @@ Just one sentence should go here, since this stuff is older and the resume is ge
 
 Just one sentence should go here, since this stuff is older and the resume is getting kind of long anyways.
 
-
 -----------------------------------------------------------------------------------------------
 ## Other projects and achievements
 ### Patents
