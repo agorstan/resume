@@ -31,7 +31,7 @@
 * Pitched to multiple venture capital firms.
 * Tri-tip kielbasa tenderloin boudin shankle turducken
 
->**"I like this! Happy customer. :-D"** — Y-Combinator Alum, CEO @ Nomiku
+>**"I like this! Happy customer. :-D"** — Y-Combinator Alum, CEO at Nomiku
 >
 >  [Read more on Product Hunt](www.google.com)
 
