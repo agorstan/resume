@@ -16,7 +16,7 @@
 
 * End-to-end owner of a suite of consumer-oriented web-based energy management products. Authored PRD, worked intimately with UX research, design, two engineering teams (15 engineers), analytics, marketing and client managers to successfully launch multiple products to millions of users. [[Check out the prototypes](https://ux.opower.com/ux-prototypes/)]
 * Founded a cross-functional team to prioritize and advise on A/B tests across Opower's web-based products.
-* Prioritized a deep-dive analysis of customer behavior on multiple products post-launch. The resulting data led to actionable insights for both the product and the clients who configure the products for their own implementations.
+* Led sophisticated deep-dive analyses of customer behavior on multiple products post-launch. The resulting data led to actionable insights for both the product and the clients who configure the products for their own implementations.
 * Led a year-long project to refactor our web products to conform with strict accessibility guidelines (WCAG 2.0 AA).
 * Presented product vision to our largest and most strategic clients, earning buy-in and gathering input to better align the products with our clients' business goals.
 
