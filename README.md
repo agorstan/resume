@@ -1,7 +1,7 @@
 # Alex Gorstan
 >I'm driven to solve meaningful problems for real people. I lead by inspiration. I live for elegant and creative solutions that drive measurable outcomes.
 
----
+-----------------------------------------------------------------------------------------------
 ## Top 5 Areas of Expertise
 - Product Management
 - Consumer Products
@@ -9,7 +9,7 @@
 - Agile Methodologies
 - Analytics and Experimentation
 
----
+-----------------------------------------------------------------------------------------------
 
 ##Experience
 ### Dilly
@@ -61,7 +61,7 @@ Just one sentence should go here, since this stuff is older and the resume is ge
 
 **Software Engineer**, from 2005 - 2007 in Columbia, MD
 
----
+-----------------------------------------------------------------------------------------------
 ## Other Things That I'm Proud Of
 ### Patents
 * Systems and methods for stitching and sharing panoramas
@@ -79,8 +79,11 @@ Europe WO 2014145322 A1
 United States US 20140009570 A1
 * Systems and Methods of Using Motion Control to Navigate Panoramas and Virtual Tours
 United States US 20140089850 A1
-### Creative Projects
 
+### Creative Projects
+* Link to Soundcloud
+* Link to vimeo marketing promo for sphere
+* Link to Astrophotography portfolio
 
 
 ---
