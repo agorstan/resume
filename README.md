@@ -1,28 +1,37 @@
 # Alex Gorstan
-_Driven to build inspired products that solve real problems for real people._
+>I'm driven to solve tangible problems for real people. I lead by inspiration. I live for elegant and creative solutions that drive clear and measurable outcomes.
+
+---
+## Top 5 Areas of Expertise
+- Product Management
+- Consumer Products
+- UX Research and Design
+- Agile Methodologies
+- Analytics and Experimentation
 
 ##Experience
 
 ### Opower
-_**Product Manager**, San Francisco, CA / Washington, DC_
+**Product Manager** from 2013 - 2016 in San Francisco, CA and Washington, DC
 
 ### Sphere
-_**Product Manager**, San Francisco, CA_
+**Product Manager** from 2012 - 2013 in San Francisco, CA_
 
 ### Disruptive
-_**Founder**, Baltimore, MD_
+**Founder** from 2010 - 2012 in San Francisco, CA_ Baltimore, MD
 
-### General Dynamics
-_**Product Manager**, Towson, MD_
+### ViPS _(Acquired by General Dynamics)_
+**Product Manager** from 2008 - 2011 in Towson, MD
 
-### Johns Hopkins
-_**Software Engineer**, Baltimore, MD_
+### Johns Hopkins Medical Institute
+**Software Engineer** from 2007 - 2008 in Towson, MD
 
 ### Glenridge Healthcare Solutions
-_**Software Engineer**, Columbia, MD_
+**Software Engineer**, from 2005 - 2007 in Columbia, MD
 
+---
 ## Links
 
-> [davidhampgonsalves.com](http://www.davidhampgonsalves.com)
+---
 > [alex.gorstan@me.com](mailto:alex.gorstan@me.com)
 > (410) 905-2094
