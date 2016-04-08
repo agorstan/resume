@@ -1,5 +1,5 @@
 # Alex Gorstan
->I'm driven to solve meaningful problems for real people. I lead by inspiration. I live for elegant and creative solutions that drive measurable outcomes.
+>I'm driven to solve meaningful problems for real people with inspired software products. I lead by inspiration. I live for elegant and creative solutions that drive measurable outcomes.
 
 -----------------------------------------------------------------------------------------------
 ## Top 5 Areas of Expertise
