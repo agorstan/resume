@@ -22,8 +22,8 @@
 
 ### Opower
 **Product Manager** from 2013 - 2016 in San Francisco, CA and Washington, DC
-* Led design, development and launch of a suite of consumer-oriented energy management tools.
-* Alcatra hamburger kevin ball tip ground round short ribs porchetta.
+* Launched a suite of consumer-oriented energy management tools.
+* Founded a cross-functional group to prioritize and design A/B tests across Opower's web-based products.
 * Tri-tip kielbasa tenderloin boudin shankle turducken
 
 >**"Alex is one of the finest people I've ever had the privilege of working with. He is passionate, dedicated, extremely creative, and hyper bright and logical..."** — Product Manager at Opower
@@ -84,5 +84,6 @@ I'm very proud that my patents have been licensed by one of the world's most wel
 * [Astrophotography](https://500px.com/alexgorstan)
 
 ---
+> [Google Me](https://www.google.com/#q=%22Alex+Gorstan%22)
 > [alex.gorstan@me.com](mailto:alex.gorstan@me.com)
 > (410) 905-2094
