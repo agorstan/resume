@@ -29,8 +29,8 @@
 **Founder** from 2015 - Present in Washington, DC
 > "Helping parents spend better time with their kids." [[website](http://www.dilly.co)]
 
-* Bacon ipsum dolor amet doner biltong bresaola pork 300%.
-* Alcatra hamburger kevin ball tip ground round short ribs porchetta.
+* Conceived of, researched, designed, developed, promoted and launched an SMS-based content deliver platform.
+* Pitched to multiple venture capital firms.
 * Tri-tip kielbasa tenderloin boudin shankle turducken
 
 >**"I like this! Happy customer. :-D"** — Y-Combinator Alum, CEO @ Nomiku
