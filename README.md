@@ -13,13 +13,12 @@
 
 ### [Opower](http://www.opower.com)
 **Product Manager** from 2013 - 2016 in San Francisco, CA and Washington, DC
-> "We help utilities elevate the customer experience." [[website](http://www.opower.com)]
 
 * End-to-end owner of a suite of consumer-oriented web-based energy management products. Authored PRD, worked intimately with UX research, design, two engineering teams (15 engineers), analytics, marketing and client managers to successfully launch multiple products to millions of users.
 * Founded a cross-functional team to prioritize and advise on A/B tests across Opower's web-based products.
 * Prioritized a deep-dive analysis of customer behavior on multiple products post-launch. The resulting data led to actionable insights for both the product and the clients who configure the products for their own implementations.
-* Led a year-long project to refactor our web offering to conform with strict Accessibility Guidelines (WCAG 2.0 AA).
-* Presented product vision to our largest and most stragic clients, earning buy-in and gathering input to better align the products with our clients' business goals.
+* Led a year-long project to refactor our web products to conform with strict accessibility guidelines (WCAG 2.0 AA).
+* Presented product vision to our largest and most strategic clients, earning buy-in and gathering input to better align the products with our clients' business goals.
 
 >**"Alex is one of the finest people I've ever had the privilege of working with. He is passionate, dedicated, extremely creative, and hyper bright and logical..."** — Product Manager at Opower
 >
@@ -27,7 +26,6 @@
 
 ### [Dilly](http://www.dilly.co)
 **Founder** from 2015 - Present in Washington, DC
-> "Helping parents spend better time with their kids." [[website](http://www.dilly.co)]
 
 * Conceived of, researched, designed, developed, promoted and launched an SMS-based content deliver platform.
 * Pitched to multiple venture capital firms.
