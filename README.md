@@ -11,7 +11,7 @@
 -----------------------------------------------------------------------------------------------
 ##Experience
 
-### Opower
+### [Opower](http://www.opower.com)
 **Product Manager** from 2013 - 2016 in San Francisco, CA and Washington, DC
 * End-to-end owner of a suite of consumer-oriented web-based energy management tools. Authored PRD, worked intimately with UX research, design, two engineering teams (15 engineers), analytics, marketing and client managers to successfully launch multiple products to millions of users.
 * Founded a cross-functional team to prioritize and advise on A/B tests across Opower's web-based products.
@@ -23,7 +23,7 @@
 >
 > [Read more on LinkedIn](www.google.com)
 
-### Dilly
+### [Dilly](http://www.dilly.co)
 **Founder** from 2015 - Present in Washington, DC
 * Bacon ipsum dolor amet doner biltong bresaola pork 300%.
 * Alcatra hamburger kevin ball tip ground round short ribs porchetta.
@@ -33,7 +33,7 @@
 >
 >  [Read more on Product Hunt](www.google.com)
 
-### Sphere
+### [Sphere](http://www.thesphere.com)
 **Product Manager** from 2012 - 2013 in San Francisco, CA_
 * Bacon ipsum dolor amet doner biltong bresaola pork 300%.
 * Alcatra hamburger kevin ball tip ground round short ribs porchetta.
@@ -43,7 +43,7 @@
 >
 >[Read more on LinkedIn](www.google.com)
 
-### Disruptive
+### [Disruptive](http://www.dsrp.tv)
 **Founder** from 2010 - 2012 in San Francisco, CA_ Baltimore, MD
 * Bacon ipsum dolor amet doner biltong bresaola pork 300%.
 * Alcatra hamburger kevin ball tip ground round short ribs porchetta.
