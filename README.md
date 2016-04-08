@@ -68,9 +68,9 @@ Just one sentence should go here, since this stuff is older and the resume is ge
 
 
 -----------------------------------------------------------------------------------------------
-## Other Things That I'm Proud Of
+## Other projects and achievements
 ### Patents
-I'm very proud that my patents have been licensed by one of the most world's most well known internet technology companies.
+I'm very proud that my patents have been licensed by one of the world's most well known internet technology companies.
 
 **United States:**
 [US20130293671 A1](http://appft1.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d=PG01&p=1&u=/netahtml/PTO/srchnum.html&r=1&f=G&l=50&s1=20130293671.PGNR.), [US20140009503 A1](http://appft1.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d=PG01&p=1&u=/netahtml/PTO/srchnum.html&r=1&f=G&l=50&s1=20140009503.PGNR.), [US 20140089850 A1](http://appft1.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d=PG01&p=1&u=/netahtml/PTO/srchnum.html&r=1&f=G&l=50&s1=20140089850.PGNR.), [US20140009570 A1](http://appft1.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d=PG01&p=1&u=/netahtml/PTO/srchnum.html&r=1&f=G&l=50&s1=20140009570.PGNR.), [US 20140300686 A1](http://appft1.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d=PG01&p=1&u=/netahtml/PTO/srchnum.html&r=1&f=G&l=50&s1=20140300686.PGNR.), [US 20140089281 A1](http://appft1.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d=PG01&p=1&u=/netahtml/PTO/srchnum.html&r=1&f=G&l=50&s1=20140089281.PGNR.), [US 20140199050 A1](http://appft1.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d=PG01&p=1&u=/netahtml/PTO/srchnum.html&r=1&f=G&l=50&s1=20140199050.PGNR.)
@@ -78,11 +78,10 @@ I'm very proud that my patents have been licensed by one of the most world's mos
 **Europe:**
 [WO 2014008320 A1](https://www.google.com/patents/WO2014008320A1?cl=en&dq=gorstan&hl=en&sa=X&ved=0ahUKEwi60IHAr__LAhUGmR4KHSIDBN8Q6AEIWzAJ), [WO 2013166066 A1](https://www.google.com/patents/WO2013166066A1?cl=en&dq=gorstan&hl=en&sa=X&ved=0ahUKEwi60IHAr__LAhUGmR4KHSIDBN8Q6AEIPzAF), [WO 2014145322 A1](https://www.google.com/patents/WO2014145322A1?cl=en&dq=gorstan&hl=en&sa=X&ved=0ahUKEwi60IHAr__LAhUGmR4KHSIDBN8Q6AEIRjAG), [WO 2013112756 A1](https://www.google.com/patents/WO2013112756A1?cl=en&dq=gorstan&hl=en&sa=X&ved=0ahUKEwjdoteXs__LAhXMsh4KHYwvB-Q4ChDoAQgbMAA), [WO 2014008438 A1](https://www.google.com/patents/WO2014008438A1?cl=en&dq=gorstan&hl=en&sa=X&ved=0ahUKEwjdoteXs__LAhXMsh4KHYwvB-Q4ChDoAQgiMAE)
 
-### Creative Projects
-* Link to Soundcloud
-* Link to vimeo marketing promo for sphere
-* Link to Astrophotography portfolio
-
+### End-to-end Creative Projects
+* [Music Production](https://soundcloud.com/electricvegetable)
+* [Marketing Promo Video for Sphere](https://vimeo.com/69777169)
+* [Astrophotography](https://500px.com/alexgorstan)
 
 ---
 > [alex.gorstan@me.com](mailto:alex.gorstan@me.com)
