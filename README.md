@@ -3,14 +3,12 @@
 
 -----------------------------------------------------------------------------------------------
 ## Top 5 Areas of Expertise
-- Product Management
-- Consumer Products
+- Consumer Product Management
 - UX Research and Design
 - Agile Methodologies
 - Analytics and Experimentation
-
+- Accessibility
 -----------------------------------------------------------------------------------------------
-
 ##Experience
 ### Dilly
 **Founder** from 2012 - 2013 in Washington, DC
@@ -18,9 +16,9 @@
 * Alcatra hamburger kevin ball tip ground round short ribs porchetta.
 * Tri-tip kielbasa tenderloin boudin shankle turducken
 
->"I like this! Happy customer. :-D" - Y-Combinator Alum, CEO @ Nomiku - [Read on Product Hunt](www.google.com)
-
-> Recommendation
+>**"I like this! Happy customer. :-D"** — Y-Combinator Alum, CEO @ Nomiku
+>
+>  [Read on Product Hunt](www.google.com)
 
 ### Opower
 **Product Manager** from 2013 - 2016 in San Francisco, CA and Washington, DC
@@ -28,7 +26,9 @@
 * Alcatra hamburger kevin ball tip ground round short ribs porchetta.
 * Tri-tip kielbasa tenderloin boudin shankle turducken
 
->"Alex is one of the finest people I've ever had the privilege of working with. He is passionate, dedicated, extremely creative, and hyper bright and logical..." — Product Manager at Opower - [Read on LinkedIn](www.google.com)
+>**"Alex is one of the finest people I've ever had the privilege of working with. He is passionate, dedicated, extremely creative, and hyper bright and logical..."** — Product Manager at Opower - 
+>
+[Read on LinkedIn](www.google.com)
 
 ### Sphere
 **Product Manager** from 2012 - 2013 in San Francisco, CA_
@@ -36,13 +36,19 @@
 * Alcatra hamburger kevin ball tip ground round short ribs porchetta.
 * Tri-tip kielbasa tenderloin boudin shankle turducken
 
->"I was impressed by his deep knowledge of tools and the way to apply them to a process. Alex is a great product manager, who understands importance of design..." _— Lead Designer at Google_ [Read on LinkedIn](www.google.com)
+>**"I was impressed by his deep knowledge of tools and the way to apply them to a process. Alex is a great product manager, who understands importance of design..."** _— Lead Designer at Google_ 
+>
+>[Read on LinkedIn](www.google.com)
 
 ### Disruptive
 **Founder** from 2010 - 2012 in San Francisco, CA_ Baltimore, MD
 * Bacon ipsum dolor amet doner biltong bresaola pork 300%.
 * Alcatra hamburger kevin ball tip ground round short ribs porchetta.
 * Tri-tip kielbasa tenderloin boudin shankle turducken
+
+>**"Alex in particular is prompt, dependable and positively awash with amazing solutions. Most importantly, perhaps, he has one of the best attitudes I've ever encountered in the tech industry..."** _— _CTO at The Other 98%_
+>
+>  [Read on LinkedIn](www.google.com)
 
 ### ViPS _(Acquired by General Dynamics)_
 * Bacon ipsum dolor amet doner biltong bresaola pork 300%.
