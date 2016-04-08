@@ -26,7 +26,7 @@
 * Alcatra hamburger kevin ball tip ground round short ribs porchetta.
 * Tri-tip kielbasa tenderloin boudin shankle turducken
 
->**"Alex is one of the finest people I've ever had the privilege of working with. He is passionate, dedicated, extremely creative, and hyper bright and logical..."** — Product Manager at Opower - 
+>**"Alex is one of the finest people I've ever had the privilege of working with. He is passionate, dedicated, extremely creative, and hyper bright and logical..."** — Product Manager at Opower
 >
 [Read on LinkedIn](www.google.com)
 
@@ -36,7 +36,7 @@
 * Alcatra hamburger kevin ball tip ground round short ribs porchetta.
 * Tri-tip kielbasa tenderloin boudin shankle turducken
 
->**"I was impressed by his deep knowledge of tools and the way to apply them to a process. Alex is a great product manager, who understands importance of design..."** _— Lead Designer at Google_ 
+>**"I was impressed by his deep knowledge of tools and the way to apply them to a process. Alex is a great product manager, who understands importance of design..."** — Lead Designer at Google 
 >
 >[Read on LinkedIn](www.google.com)
 
@@ -46,7 +46,7 @@
 * Alcatra hamburger kevin ball tip ground round short ribs porchetta.
 * Tri-tip kielbasa tenderloin boudin shankle turducken
 
->**"Alex in particular is prompt, dependable and positively awash with amazing solutions. Most importantly, perhaps, he has one of the best attitudes I've ever encountered in the tech industry..."** _— _CTO at The Other 98%_
+>**"Alex in particular is prompt, dependable and positively awash with amazing solutions. Most importantly, perhaps, he has one of the best attitudes I've ever encountered in the tech industry..."** — CTO at The Other 98%
 >
 >  [Read on LinkedIn](www.google.com)
 
@@ -70,21 +70,11 @@ Just one sentence should go here, since this stuff is older and the resume is ge
 -----------------------------------------------------------------------------------------------
 ## Other Things That I'm Proud Of
 ### Patents
-* Systems and methods for stitching and sharing panoramas
-United States US 20130293671 A1
-* SYSTEMS AND METHODS FOR CAPTURE AND DISPLAY OF FLEX-FOCUS PANORAMAS
-United States 61667893
-Click to edit patent date
-* SYSTEMS AND METHODS FOR TRACKING USER POSTURES TO CONTROL DISPLAY OF PANORAMAS
-United States 61667899
-* SYSTEMS AND METHODS FOR SELECTING AND DISPLAYING SUPPLEMENTAL PANORAMIC DATA
-Click to edit patent dateIssued 
-* Systems and methods for tracking camera orientation and mapping frames onto a panoramic canvas
-Europe WO 2014145322 A1
-* Systems and methods for capture and display of flex-focus panoramas
-United States US 20140009570 A1
-* Systems and Methods of Using Motion Control to Navigate Panoramas and Virtual Tours
-United States US 20140089850 A1
+A number of my patents have been licensed by one of the most successful internet technology companies in the world.
+#### United States
+[US20130293671 A1](http://appft1.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d=PG01&p=1&u=/netahtml/PTO/srchnum.html&r=1&f=G&l=50&s1=20130293671.PGNR.), [US20140009503 A1](http://appft1.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d=PG01&p=1&u=/netahtml/PTO/srchnum.html&r=1&f=G&l=50&s1=20140009503.PGNR.), [US 20140089850 A1](http://appft1.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d=PG01&p=1&u=/netahtml/PTO/srchnum.html&r=1&f=G&l=50&s1=20140089850.PGNR.), [US20140009570 A1](http://appft1.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d=PG01&p=1&u=/netahtml/PTO/srchnum.html&r=1&f=G&l=50&s1=20140009570.PGNR.), [US 20140300686 A1](http://appft1.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d=PG01&p=1&u=/netahtml/PTO/srchnum.html&r=1&f=G&l=50&s1=20140300686.PGNR.), [US 20140089281 A1](http://appft1.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d=PG01&p=1&u=/netahtml/PTO/srchnum.html&r=1&f=G&l=50&s1=20140089281.PGNR.), [US 20140199050 A1](http://appft1.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d=PG01&p=1&u=/netahtml/PTO/srchnum.html&r=1&f=G&l=50&s1=20140199050.PGNR.), 
+#### International
+[WO 2014008320 A1](https://www.google.com/patents/WO2014008320A1?cl=en&dq=gorstan&hl=en&sa=X&ved=0ahUKEwi60IHAr__LAhUGmR4KHSIDBN8Q6AEIWzAJ), [WO 2013166066 A1](https://www.google.com/patents/WO2013166066A1?cl=en&dq=gorstan&hl=en&sa=X&ved=0ahUKEwi60IHAr__LAhUGmR4KHSIDBN8Q6AEIPzAF), [WO 2014145322 A1](https://www.google.com/patents/WO2014145322A1?cl=en&dq=gorstan&hl=en&sa=X&ved=0ahUKEwi60IHAr__LAhUGmR4KHSIDBN8Q6AEIRjAG), [WO 2013112756 A1](https://www.google.com/patents/WO2013112756A1?cl=en&dq=gorstan&hl=en&sa=X&ved=0ahUKEwjdoteXs__LAhXMsh4KHYwvB-Q4ChDoAQgbMAA), [WO 2014008438 A1](https://www.google.com/patents/WO2014008438A1?cl=en&dq=gorstan&hl=en&sa=X&ved=0ahUKEwjdoteXs__LAhXMsh4KHYwvB-Q4ChDoAQgiMAE)
 
 ### Creative Projects
 * Link to Soundcloud
