@@ -13,7 +13,9 @@
 
 ### [Opower](http://www.opower.com)
 **Product Manager** from 2013 - 2016 in San Francisco, CA and Washington, DC
-* End-to-end owner of a suite of consumer-oriented web-based energy management tools. Authored PRD, worked intimately with UX research, design, two engineering teams (15 engineers), analytics, marketing and client managers to successfully launch multiple products to millions of users.
+> "We help utilities elevate the customer experience." [[website](http://www.opower.com)]
+
+* End-to-end owner of a suite of consumer-oriented web-based energy management products. Authored PRD, worked intimately with UX research, design, two engineering teams (15 engineers), analytics, marketing and client managers to successfully launch multiple products to millions of users.
 * Founded a cross-functional team to prioritize and advise on A/B tests across Opower's web-based products.
 * Prioritized a deep-dive analysis of customer behavior on multiple products post-launch. The resulting data led to actionable insights for both the product and the clients who configure the products for their own implementations.
 * Led a year-long project to refactor our web offering to conform with strict Accessibility Guidelines (WCAG 2.0 AA).
@@ -25,6 +27,8 @@
 
 ### [Dilly](http://www.dilly.co)
 **Founder** from 2015 - Present in Washington, DC
+> "Helping parents spend better time with their kids." [[website](http://www.dilly.co)]
+
 * Bacon ipsum dolor amet doner biltong bresaola pork 300%.
 * Alcatra hamburger kevin ball tip ground round short ribs porchetta.
 * Tri-tip kielbasa tenderloin boudin shankle turducken
