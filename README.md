@@ -21,7 +21,7 @@
 
 >**"Alex is one of the finest people I've ever had the privilege of working with. He is passionate, dedicated, extremely creative, and hyper bright and logical..."** — Product Manager at Opower
 >
-[Read on LinkedIn](www.google.com)
+> [Read on LinkedIn](www.google.com)
 
 ### Dilly
 **Founder** from 2015 - Present in Washington, DC
