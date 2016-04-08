@@ -28,7 +28,7 @@
 **Founder** from 2015 - Present in Washington, DC
 
 * Conceived of, researched, designed, developed, promoted and launched an SMS-based content deliver platform.
-* Pitched to multiple venture capital firms.
+* Pitched to multiple venture capital firms. [[Check out the pitch deck](www)]
 * Tri-tip kielbasa tenderloin boudin shankle turducken
 
 >**"I like this! Happy customer. :-D"** — Y-Combinator Alum, CEO at Nomiku
@@ -88,6 +88,6 @@ I am proud that my patents have been licensed by one of the world's most well kn
 * [Astrophotography](https://500px.com/alexgorstan)
 
 ---
-> [Google Me](https://www.google.com/#q=%22Alex+Gorstan%22)
 > [alex.gorstan@me.com](mailto:alex.gorstan@me.com)
+> 
 > (410) 905-2094
