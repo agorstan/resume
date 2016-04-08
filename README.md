@@ -3,7 +3,7 @@
 
 -----------------------------------------------------------------------------------------------
 ## Top 5 Areas of Expertise
-- Consumer Product Management
+- Consumer Software Product Management
 - UX Research and Design
 - Agile Methodologies
 - Analytics and Experimentation
