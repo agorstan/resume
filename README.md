@@ -36,7 +36,7 @@
 >  [Read more on Product Hunt](www.google.com)
 
 ### [Sphere](http://www.thesphere.com)
-**Product Manager** from 2012 - 2013 in San Francisco, CA_
+**Product Manager** from 2012 - 2013 in San Francisco, CA
 * Bacon ipsum dolor amet doner biltong bresaola pork 300%.
 * Alcatra hamburger kevin ball tip ground round short ribs porchetta.
 * Tri-tip kielbasa tenderloin boudin shankle turducken
@@ -46,7 +46,7 @@
 >[Read more on LinkedIn](www.google.com)
 
 ### [Disruptive](http://www.dsrp.tv)
-**Founder** from 2010 - 2012 in San Francisco, CA_ Baltimore, MD
+**Founder** from 2010 - 2012 in Baltimore, MD
 * Bacon ipsum dolor amet doner biltong bresaola pork 300%.
 * Alcatra hamburger kevin ball tip ground round short ribs porchetta.
 * Tri-tip kielbasa tenderloin boudin shankle turducken
