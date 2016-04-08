@@ -10,8 +10,20 @@
 - Accessibility
 -----------------------------------------------------------------------------------------------
 ##Experience
+
+### Opower
+**Product Manager** from 2013 - 2016 in San Francisco, CA and Washington, DC
+* End-to-end owner of a suite of consumer-oriented web-based energy management tools. Authored PRD, worked intimately with UX research, design, two engineering teams, analytics, marketing and client managers to successfully launch multiple products to millions of users.
+* Founded a cross-functional team to prioritize and design A/B tests across Opower's web-based products.
+* Prioritized deep-dive analysis of customer behavior on products post-launch. The resulting data led to actionable insights for both the core product and the clients who configure them for themselves.
+* Led a year-long project to refactor our web offering to conform with WCAG 2.0 AA Accessibility Guidelines.
+
+>**"Alex is one of the finest people I've ever had the privilege of working with. He is passionate, dedicated, extremely creative, and hyper bright and logical..."** — Product Manager at Opower
+>
+[Read on LinkedIn](www.google.com)
+
 ### Dilly
-**Founder** from 2012 - 2013 in Washington, DC
+**Founder** from 2015 - Present in Washington, DC
 * Bacon ipsum dolor amet doner biltong bresaola pork 300%.
 * Alcatra hamburger kevin ball tip ground round short ribs porchetta.
 * Tri-tip kielbasa tenderloin boudin shankle turducken
@@ -19,16 +31,6 @@
 >**"I like this! Happy customer. :-D"** — Y-Combinator Alum, CEO @ Nomiku
 >
 >  [Read on Product Hunt](www.google.com)
-
-### Opower
-**Product Manager** from 2013 - 2016 in San Francisco, CA and Washington, DC
-* Launched a suite of consumer-oriented energy management tools.
-* Founded a cross-functional group to prioritize and design A/B tests across Opower's web-based products.
-* Tri-tip kielbasa tenderloin boudin shankle turducken
-
->**"Alex is one of the finest people I've ever had the privilege of working with. He is passionate, dedicated, extremely creative, and hyper bright and logical..."** — Product Manager at Opower
->
-[Read on LinkedIn](www.google.com)
 
 ### Sphere
 **Product Manager** from 2012 - 2013 in San Francisco, CA_
