@@ -72,7 +72,7 @@ Just one sentence should go here, since this stuff is older and the resume is ge
 Just one sentence should go here, since this stuff is older and the resume is getting kind of long anyways.
 
 -----------------------------------------------------------------------------------------------
-## Other projects and achievements
+## Projects and Achievements
 ### 12 Patents Issued
 
 I am proud that these patents have been licensed by one of the world's most well known internet technology companies.z
@@ -81,7 +81,7 @@ I am proud that these patents have been licensed by one of the world's most well
 |---------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Europe        | [WO 2014008320 A1](https://www.google.com/patents/WO2014008320A1?cl=en&dq=gorstan&hl=en&sa=X&ved=0ahUKEwi60IHAr__LAhUGmR4KHSIDBN8Q6AEIWzAJ), [WO 2013166066 A1](https://www.google.com/patents/WO2013166066A1?cl=en&dq=gorstan&hl=en&sa=X&ved=0ahUKEwi60IHAr__LAhUGmR4KHSIDBN8Q6AEIPzAF), [WO 2014145322 A1](https://www.google.com/patents/WO2014145322A1?cl=en&dq=gorstan&hl=en&sa=X&ved=0ahUKEwi60IHAr__LAhUGmR4KHSIDBN8Q6AEIRjAG), [WO 2013112756 A1](https://www.google.com/patents/WO2013112756A1?cl=en&dq=gorstan&hl=en&sa=X&ved=0ahUKEwjdoteXs__LAhXMsh4KHYwvB-Q4ChDoAQgbMAA), [WO 2014008438 A1](https://www.google.com/patents/WO2014008438A1?cl=en&dq=gorstan&hl=en&sa=X&ved=0ahUKEwjdoteXs__LAhXMsh4KHYwvB-Q4ChDoAQgiMAE)                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 
-### Creative Projects
+### Products and Other Creative Projects
 * [Music Production](https://soundcloud.com/electricvegetable)
 * [Marketing Promo Video for Sphere](https://vimeo.com/69777169)
 * [Astrophotography](https://500px.com/alexgorstan)
