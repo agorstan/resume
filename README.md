@@ -22,7 +22,7 @@
 
 ### Opower
 **Product Manager** from 2013 - 2016 in San Francisco, CA and Washington, DC
-* Bacon ipsum dolor amet doner biltong bresaola pork 300%.
+* Led design, development and launch of a suite of consumer-oriented energy management tools.
 * Alcatra hamburger kevin ball tip ground round short ribs porchetta.
 * Tri-tip kielbasa tenderloin boudin shankle turducken
 
