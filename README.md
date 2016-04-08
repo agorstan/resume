@@ -17,7 +17,7 @@
 * Founded a cross-functional team to prioritize and advise on A/B tests across Opower's web-based products.
 * Prioritized a deep-dive analysis of customer behavior on multiple products post-launch. The resulting data led to actionable insights for both the product and the clients who configure the products for their own implementations.
 * Led a year-long project to refactor our web offering to conform with strict Accessibility Guidelines (WCAG 2.0 AA).
-* Presented product vision to our largest and most stragic clients, earning buy-in and gathering input for future product innovation.
+* Presented product vision to our largest and most stragic clients, earning buy-in and gathering input to better align the products with our clients' business goals.
 
 >**"Alex is one of the finest people I've ever had the privilege of working with. He is passionate, dedicated, extremely creative, and hyper bright and logical..."** — Product Manager at Opower
 >
