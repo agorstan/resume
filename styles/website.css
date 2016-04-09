@@ -1,3 +1,7 @@
 /* CSS for website */
-h1{color:red}
-*{color:blue}
+h1{}
+
+h2:nth-last-of-type(2){
+  color:white;
+  background:orange;
+  }
