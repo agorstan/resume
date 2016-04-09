@@ -39,7 +39,7 @@
 
 ### [Sphere](http://www.thesphere.com)
 **Product Manager** from 2012 - 2013 in San Francisco, CA
-* Introduced login-wall that lead to over 500+% increase in new account creations with carefully crafted and tested first-user-experience improvements.
+* Introduced login-wall feature that lead to over 500+% increase in new account creations with carefully crafted and tested first-user-experience improvements.
 * Over 200% growth in MAU as a result of A/B tested email campaigns and targeted features.
 * Apple featured the Sphere app prominently and multiple times across 4 different categories.
 * Samsung and Sony chose to preload and deep integrate Sphere on Android devices as a result of product decisions and partnership discussions, yielding a projected 20M registered users in 2014.
@@ -50,7 +50,7 @@
 
 ### [Disruptive](http://www.dsrp.tv)
 **Founder** from 2010 - 2012 in Baltimore, MD
-* Applied a goal-oriented product management methodology to ship products across a number of diverse verticals including healthcare, travel, home-automation, case management/legal services, gaming, publishing and design. 
+* Designed, developed and shipped products for our clients across a number of diverse verticals including healthcare, travel, home-automation, case management/legal services, gaming, publishing and design. 
 * Three apps reached top 10 within travel, games, and productivity categories.
 
 >**"Alex in particular is prompt, dependable and positively awash with amazing solutions. Most importantly, perhaps, he has one of the best attitudes I've ever encountered in the tech industry..."** — CTO at The Other 98%
@@ -60,18 +60,21 @@
 ### ViPS _(Acquired by General Dynamics)_
 **Product Manager** from 2008 - 2011 in Towson, MD
 
-* Bacon ipsum dolor amet doner biltong bresaola pork 300%.
-* Alcatra hamburger kevin ball tip ground round short ribs porchetta.
-* Tri-tip kielbasa tenderloin boudin shankle turducken
+* Responsible for growing the market leading healthcare fraud detection and prevention suite.
+* Performed usability and business validation testing with high fidelity prototypes.
+
 
 ### Johns Hopkins Medical Institute
 **Software Engineer** from 2007 - 2008 in Towson, MD
 
-Just one sentence should go here, since this stuff is older and the resume is getting kind of long anyways.
+* Conceptualized, developed and maintained financial and patient management applications for the hospital. 
+* Worked directly with users (doctors, nurses and hospital staff) to improve software and ultimately patient care.
+
 ### Glenridge Healthcare Solutions
 **Software Engineer**, from 2005 - 2007 in Columbia, MD
 
-Just one sentence should go here, since this stuff is older and the resume is getting kind of long anyways.
+* Responsible for maintaining, growing, and improving custom healthcare provider network development software and database. 
+* Assisted in developing an in-house application generating leads for an overpayment recovery effort.
 
 -----------------------------------------------------------------------------------------------
 ## Projects and Achievements
