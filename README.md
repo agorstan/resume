@@ -3,11 +3,11 @@
 
 -----------------------------------------------------------------------------------------------
 ## Top 5 Areas of Expertise
-- Consumer Software Product Management (Mobile and Web)
-- UX Research and Design
-- Agile Methodologies
-- Analytics and Experimentation
-- Web Accessibility
+* Consumer Software Product Management (Mobile and Web)
+* UX Research and Design
+* Agile Methodologies
+* Analytics and Experimentation
+* Web Accessibility
 
 -----------------------------------------------------------------------------------------------
 ##Experience
