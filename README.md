@@ -8,6 +8,7 @@
 - Agile Methodologies
 - Analytics and Experimentation
 - Web Accessibility
+
 -----------------------------------------------------------------------------------------------
 ##Experience
 
