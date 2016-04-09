@@ -17,6 +17,7 @@
 * End-to-end owner of a suite of consumer-oriented web-based energy management products. Authored PRD, worked intimately with UX research, design, two engineering teams (15 engineers), analytics, marketing and client managers to successfully launch multiple products to millions of users. [[Check out the prototypes](https://ux.opower.com/ux-prototypes/)]
 * Founded a cross-functional team to prioritize and advise on A/B tests across Opower's web-based products.
 * Led a deep-dive statistical analyses of customer behavior on multiple products post-launch. The resulting data led to actionable insights for both the product and the clients who configure the products for their own implementations.
+* Introduced and implemented cohort retention metrics across all utility clients which yielded insights about optimal deployment configurations.
 * Led a year-long project to refactor our web products to conform with strict accessibility guidelines (WCAG 2.0 AA).
 * Presented product vision to our largest and most strategic clients, earning buy-in and gathering input to better align the products with our clients' business goals.
 
@@ -27,7 +28,7 @@
 ### [Dilly](http://www.dilly.co)
 **Founder** from 2015 - Present in Washington, DC
 
-* Singularly developed concept, product roadmap, website design, node.js back-end and curator toolset integrated with Twilio, backed by Firebase and novel use of Google Calendar API.
+* Singularly developed concept, product roadmap, website design, back-end and curator tools using Twilio, Firebase, Angular.JS, Node.JS, Express and novel use of Google Calendar API.
 * Scoured personal network to get intros to VCs (NEA, Novak Biddle, others) and Pitched to multiple venture capital firms. [[Check out the pitch deck](www)]
 * Referred to Y-Combinator and 500 Startups where we reached the final selection round.
 * Scrappy marketing efforts earned us a spot on Product Hunt front page, yielding huge influx of users and investor attention. 
@@ -38,9 +39,10 @@
 
 ### [Sphere](http://www.thesphere.com)
 **Product Manager** from 2012 - 2013 in San Francisco, CA
-* Bacon ipsum dolor amet doner biltong bresaola pork 300%.
-* Alcatra hamburger kevin ball tip ground round short ribs porchetta.
-* Tri-tip kielbasa tenderloin boudin shankle turducken
+* Responsible for decisions that lead to over 500+% increase in new account creations via first-user-experience improvements.
+* 200+% growth in MAU as a result of A/B testing and targeted features.
+* Apple has chosen to prominently feature the Sphere app multiple times across 4 different categories.
+* Samsung and Sony have chosen to preload and deep integrate Sphere on Android devices as a result of product decisions, yielding a projected 20M registered users in 2014.
 
 >**"I was impressed by his deep knowledge of tools and the way to apply them to a process. Alex is a great product manager, who understands importance of design..."** — Lead Designer at Google 
 >
@@ -48,9 +50,8 @@
 
 ### [Disruptive](http://www.dsrp.tv)
 **Founder** from 2010 - 2012 in Baltimore, MD
-* Bacon ipsum dolor amet doner biltong bresaola pork 300%.
-* Alcatra hamburger kevin ball tip ground round short ribs porchetta.
-* Tri-tip kielbasa tenderloin boudin shankle turducken
+* Applied a goal-oriented product management methodology to ship products across a number of diverse verticals including healthcare, travel, home-automation, case management/legal services, gaming, publishing and design. 
+* Three apps reached top 10 within travel, games, and productivity categories.
 
 >**"Alex in particular is prompt, dependable and positively awash with amazing solutions. Most importantly, perhaps, he has one of the best attitudes I've ever encountered in the tech industry..."** — CTO at The Other 98%
 >
