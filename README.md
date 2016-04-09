@@ -39,10 +39,10 @@
 
 ### [Sphere](http://www.thesphere.com)
 **Product Manager** from 2012 - 2013 in San Francisco, CA
-* Responsible for decisions that lead to over 500+% increase in new account creations via first-user-experience improvements.
-* 200+% growth in MAU as a result of A/B testing and targeted features.
-* Apple has chosen to prominently feature the Sphere app multiple times across 4 different categories.
-* Samsung and Sony have chosen to preload and deep integrate Sphere on Android devices as a result of product decisions, yielding a projected 20M registered users in 2014.
+* Introduced login-wall that lead to over 500+% increase in new account creations with carefully crafted and tested first-user-experience improvements.
+* Over 200% growth in MAU as a result of A/B tested email campaigns and targeted features.
+* Apple featured the Sphere app prominently and multiple times across 4 different categories.
+* Samsung and Sony chose to preload and deep integrate Sphere on Android devices as a result of product decisions and partnership discussions, yielding a projected 20M registered users in 2014.
 
 >**"I was impressed by his deep knowledge of tools and the way to apply them to a process. Alex is a great product manager, who understands importance of design..."** — Lead Designer at Google 
 >
