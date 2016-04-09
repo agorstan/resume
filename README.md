@@ -1,5 +1,5 @@
 # Alex Gorstan
->I'm driven to solve meaningful problems for real people. I lead by inspiration. I live for elegant and creative solutions that drive measurable outcomes.
+>I'm driven to solve meaningful problems for people. I lead by inspiration. I live for elegant and novel products that drive measurable outcomes.
 
 -----------------------------------------------------------------------------------------------
 ## Top 5 Areas of Expertise
@@ -32,7 +32,7 @@
 **Founder** from 2015 - Present in Washington, DC
 
 * Singularly developed concept, product roadmap, website design, back-end and curator tools using Twilio, Firebase, Angular.JS, Node.JS, Express and novel use of Google Calendar API.
-* Scoured personal network to get intros to VCs (NEA, Novak Biddle, others) and Pitched to multiple venture capital firms. [[Check out the pitch deck](www)]
+* Scoured personal network to get intros to VCs (NEA, Novak Biddle, others) and Pitched to multiple venture capital firms. [[Check out the pitch deck](https://www.icloud.com/keynote/000jLbbjYeAio7nZTqigy8rjg#Dilly_Pitch_Deck)]
 * Referred to Y-Combinator and 500 Startups where we reached the final selection round.
 * Scrappy marketing efforts earned us a spot on Product Hunt front page, yielding huge influx of users and investor attention. 
 
@@ -89,7 +89,7 @@ I am proud that these patents have been licensed by one of the world's most well
 |---------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Europe        | [WO 2014008320 A1](https://www.google.com/patents/WO2014008320A1?cl=en&dq=gorstan&hl=en&sa=X&ved=0ahUKEwi60IHAr__LAhUGmR4KHSIDBN8Q6AEIWzAJ), [WO 2013166066 A1](https://www.google.com/patents/WO2013166066A1?cl=en&dq=gorstan&hl=en&sa=X&ved=0ahUKEwi60IHAr__LAhUGmR4KHSIDBN8Q6AEIPzAF), [WO 2014145322 A1](https://www.google.com/patents/WO2014145322A1?cl=en&dq=gorstan&hl=en&sa=X&ved=0ahUKEwi60IHAr__LAhUGmR4KHSIDBN8Q6AEIRjAG), [WO 2013112756 A1](https://www.google.com/patents/WO2013112756A1?cl=en&dq=gorstan&hl=en&sa=X&ved=0ahUKEwjdoteXs__LAhXMsh4KHYwvB-Q4ChDoAQgbMAA), [WO 2014008438 A1](https://www.google.com/patents/WO2014008438A1?cl=en&dq=gorstan&hl=en&sa=X&ved=0ahUKEwjdoteXs__LAhXMsh4KHYwvB-Q4ChDoAQgiMAE)                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 
-### Products and Other Creative Projects
+### Other Creative Projects and Products
 * [Music Compositions](https://soundcloud.com/electricvegetable)
 * [Marketing Promo Video for Sphere](https://vimeo.com/69777169)
 * [Astrophotography](https://500px.com/alexgorstan)
