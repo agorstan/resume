@@ -16,7 +16,7 @@
 
 * End-to-end owner of a suite of consumer-oriented web-based energy management products. Authored PRD, worked intimately with UX research, design, two engineering teams (15 engineers), analytics, marketing and client managers to successfully launch multiple products to millions of users. [[Check out the prototypes](https://ux.opower.com/ux-prototypes/)]
 * Founded a cross-functional team to prioritize and advise on A/B tests across Opower's web-based products.
-* Led sophisticated deep-dive analyses of customer behavior on multiple products post-launch. The resulting data led to actionable insights for both the product and the clients who configure the products for their own implementations.
+* Led a deep-dive statistical analyses of customer behavior on multiple products post-launch. The resulting data led to actionable insights for both the product and the clients who configure the products for their own implementations.
 * Led a year-long project to refactor our web products to conform with strict accessibility guidelines (WCAG 2.0 AA).
 * Presented product vision to our largest and most strategic clients, earning buy-in and gathering input to better align the products with our clients' business goals.
 
@@ -27,9 +27,10 @@
 ### [Dilly](http://www.dilly.co)
 **Founder** from 2015 - Present in Washington, DC
 
-* Conceived of, researched, designed, developed, promoted and launched an SMS-based content deliver platform.
-* Pitched to multiple venture capital firms. [[Check out the pitch deck](www)]
-* Tri-tip kielbasa tenderloin boudin shankle turducken
+* Singularly developed concept, product roadmap, website design, node.js back-end and curator toolset integrated with Twilio, backed by Firebase and novel use of Google Calendar API.
+* Scoured personal network to get intros to VCs (NEA, Novak Biddle, others) and Pitched to multiple venture capital firms. [[Check out the pitch deck](www)]
+* Referred to Y-Combinator and 500 Startups where we reached the final selection round.
+* Scrappy marketing efforts earned us a spot on Product Hunt front page, yielding huge influx of users and investor attention. 
 
 >**"I like this! Happy customer. :-D"** — Y-Combinator Alum, CEO at Nomiku
 >
@@ -82,7 +83,7 @@ I am proud that these patents have been licensed by one of the world's most well
 | Europe        | [WO 2014008320 A1](https://www.google.com/patents/WO2014008320A1?cl=en&dq=gorstan&hl=en&sa=X&ved=0ahUKEwi60IHAr__LAhUGmR4KHSIDBN8Q6AEIWzAJ), [WO 2013166066 A1](https://www.google.com/patents/WO2013166066A1?cl=en&dq=gorstan&hl=en&sa=X&ved=0ahUKEwi60IHAr__LAhUGmR4KHSIDBN8Q6AEIPzAF), [WO 2014145322 A1](https://www.google.com/patents/WO2014145322A1?cl=en&dq=gorstan&hl=en&sa=X&ved=0ahUKEwi60IHAr__LAhUGmR4KHSIDBN8Q6AEIRjAG), [WO 2013112756 A1](https://www.google.com/patents/WO2013112756A1?cl=en&dq=gorstan&hl=en&sa=X&ved=0ahUKEwjdoteXs__LAhXMsh4KHYwvB-Q4ChDoAQgbMAA), [WO 2014008438 A1](https://www.google.com/patents/WO2014008438A1?cl=en&dq=gorstan&hl=en&sa=X&ved=0ahUKEwjdoteXs__LAhXMsh4KHYwvB-Q4ChDoAQgiMAE)                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 
 ### Products and Other Creative Projects
-* [Music Production](https://soundcloud.com/electricvegetable)
+* [Music Compositions](https://soundcloud.com/electricvegetable)
 * [Marketing Promo Video for Sphere](https://vimeo.com/69777169)
 * [Astrophotography](https://500px.com/alexgorstan)
 
