@@ -23,6 +23,8 @@
 
 >**"Alex is one of the finest people I've ever had the privilege of working with. He is passionate, dedicated, extremely creative, and hyper bright and logical..."** — Product Manager at Opower
 >
+>**"He is a brilliant story teller (you should see his presentations), creative and out-of-box thinker."** - Director of Engineering @ Opower
+> 
 > [Read more on LinkedIn](www.google.com)
 
 ### [Dilly](http://www.dilly.co)
