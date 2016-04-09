@@ -57,20 +57,20 @@
 >
 >  [Read more on LinkedIn](www.google.com)
 
-### ViPS _(Acquired by General Dynamics)_
+### [ViPS](http://www.gdit.com/Capabilities/Health/Health-Payer-Solutions/Customer-Support) _(Acquired by General Dynamics)_
 **Product Manager** from 2008 - 2011 in Towson, MD
 
 * Responsible for growing the market leading healthcare fraud detection and prevention suite.
 * Performed usability and business validation testing with high fidelity prototypes.
 
 
-### Johns Hopkins Medical Institute
+### [Johns Hopkins Medicine](http://www.hopkinsmedicine.org)
 **Software Engineer** from 2007 - 2008 in Towson, MD
 
 * Conceptualized, developed and maintained financial and patient management applications for the hospital. 
 * Worked directly with users (doctors, nurses and hospital staff) to improve software and ultimately patient care.
 
-### Glenridge Healthcare Solutions
+### [Glenridge Healthcare Solutions](https://www.glenridgehealth.com)
 **Software Engineer**, from 2005 - 2007 in Columbia, MD
 
 * Responsible for maintaining, growing, and improving custom healthcare provider network development software and database. 
