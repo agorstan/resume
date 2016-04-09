@@ -67,7 +67,7 @@
 
 
 ### [Johns Hopkins Medicine](http://www.hopkinsmedicine.org)
-**Software Engineer** from 2007 - 2008 in Towson, MD
+**Software Engineer** from 2007 - 2008 in Baltimore, MD
 
 * Conceptualized, developed and maintained financial and patient management applications for the hospital. 
 * Worked directly with users (doctors, nurses and hospital staff) to improve software and ultimately patient care.
@@ -82,7 +82,7 @@
 ## Projects and Achievements
 ### 12 Patents Issued
 
-I am proud that these patents have been licensed by one of the world's most well known internet technology companies.z
+I am proud that these patents have been licensed by one of the world's most well known internet technology companies.
 
 | United States | [US20130293671 A1](http://appft1.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d=PG01&p=1&u=/netahtml/PTO/srchnum.html&r=1&f=G&l=50&s1=20130293671.PGNR.), [US20140009503 A1](http://appft1.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d=PG01&p=1&u=/netahtml/PTO/srchnum.html&r=1&f=G&l=50&s1=20140009503.PGNR.), [US 20140089850 A1](http://appft1.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d=PG01&p=1&u=/netahtml/PTO/srchnum.html&r=1&f=G&l=50&s1=20140089850.PGNR.), [US20140009570 A1](http://appft1.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d=PG01&p=1&u=/netahtml/PTO/srchnum.html&r=1&f=G&l=50&s1=20140009570.PGNR.), [US 20140300686 A1](http://appft1.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d=PG01&p=1&u=/netahtml/PTO/srchnum.html&r=1&f=G&l=50&s1=20140300686.PGNR.), [US 20140089281 A1](http://appft1.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d=PG01&p=1&u=/netahtml/PTO/srchnum.html&r=1&f=G&l=50&s1=20140089281.PGNR.), [US 20140199050 A1](http://appft1.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d=PG01&p=1&u=/netahtml/PTO/srchnum.html&r=1&f=G&l=50&s1=20140199050.PGNR.) |
 |---------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
