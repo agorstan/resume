@@ -17,8 +17,19 @@ h2{
 	margin-top:1rem!important;
 }
 
-blockquote{
-	border-left:4px solid navy!important;
-	background: rgba(80,80,200,.2);
+h3{
+	text-transform:uppercase;
+	color:black;
+	padding: 1rem 1rem 1rem 2rem;
+	background:rgba(0,0,0,.1);	
+	font-weight: 800!important;
+	font-size:2rem!important;
 }
 
+blockquote{
+	border-left:4px solid black!important;
+	color:black!important;
+}
+
+a{font-weight:bold;
+	color:orange;}
