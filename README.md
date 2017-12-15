@@ -3,15 +3,24 @@
 
 -----------------------------------------------------------------------------------------------
 ## Top 5 Areas of Expertise
-* Consumer Software Product Management (Mobile and Web)
+* Consumer Software Product Management
 * UX Research and Design
-* Agile Methodologies
+* Digital Marketing
 * Analytics and Experimentation
 * Web Accessibility
 
 -----------------------------------------------------------------------------------------------
 
 ## Experience
+
+### Super Green
+**Consultant** from 2016 - Present
+
+* [Flatiron Health](http://flatiron.com): Consultant - Support digital marketing strategy and tactical development of web content and sales collateral.
+* [HomeZen](http://myhomezen.com): Advisor, Consultant - Provide design and product management guidance
+* [FirstFuel](http://firstfuel.com): Consultant - Provide design and product management and web accessibility guidance
+* [Shouk](http://shouk.com): Consultant - Provide web redesign, SEO and technical guidance.
+* [SiteTracker](http://sitetracker.com): Consultant - Provide web redesign, sales collateral and design support.
 
 ### [Opower](http://www.opower.com)
 **Product Manager** from 2014 - 2016 in San Francisco, CA and Washington, DC
