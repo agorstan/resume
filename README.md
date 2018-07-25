@@ -16,7 +16,7 @@
 ### Super Green
 **Consultant** from 2016 - Present
 
-* [Flatiron Health](http://flatiron.com): Consultant - Support digital marketing strategy and tactical development of web content and sales collateral.
+* [Flatiron Health](http://flatiron.com): Consultant - Responsible for research marketing strategy and content development.
 * [HomeZen](http://myhomezen.com): Advisor, Consultant - Provide design and product management guidance
 * [FirstFuel](http://firstfuel.com): Consultant - Provide design and product management and web accessibility guidance
 * [Shouk](http://shouk.com): Consultant - Provide web redesign, SEO and technical guidance.
