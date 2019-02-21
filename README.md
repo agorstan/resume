@@ -13,8 +13,11 @@
 
 ## Experience
 
+### Flatiron Health
+**Director, Marketing** from 2018 - Present
+
 ### Super Green
-**Consultant** from 2016 - Present
+**Consultant** from 2016 - 2018
 
 * [Flatiron Health](http://flatiron.com): Consultant - Responsible for research marketing strategy and content development.
 * [HomeZen](http://myhomezen.com): Advisor, Consultant - Provide design and product management guidance
